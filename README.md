@@ -6,10 +6,16 @@
 
 ## List
 
+- <del>Bush de Noël</del>
+- <del>Chapeau Banana</del>
+- <del>Chimay Rouge/Bruin</del>
 - Chouffe Houblon Dobbelen IPA Tripel
-- St. Bernardus Abt
-- St. Bernardus Pater 6
-- St. Bernardus Tripel
+- <del>Gulden Draak</del>
+- <del>Kasteel Rouge</del>
+- <del>Lindemans Cassis</del>
 - Ridgeway Imperial Russian Stout
 - Ridgeway Foreign Export Stout
 - Rochefort Trappistes 10
+- St. Bernardus Abt
+- St. Bernardus Pater 6
+- St. Bernardus Tripel

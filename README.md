@@ -2,7 +2,7 @@
 
 Hello there!
 
-I've heard that you want to grab a beer. Come visit me and you can choose from my [beer shelf](#list).
+I've heard that you want to grab a beer. So come over to visit me and choose one from my [beer shelf](#list).
 
 <p align="left">
     <img src="https://lh5.googleusercontent.com/-M6FeOIKuNY8/UrRvQdxZ_KI/AAAAAAAAFbI/_oTZms0wfx8/w1159-h869-no/IMG_20131220_172312.jpg" alt="Beer Shelf" width="500px"/>

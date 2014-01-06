@@ -8,14 +8,16 @@
 
 - [Bush de Noël](http://beeradvocate.com/beer/profile/604/2232)
 - [Chapeau Banana Lambic](http://beeradvocate.com/beer/profile/190/5358)
-- [Chimay Première (Red)](http://beeradvocate.com/beer/profile/215/672)
+- **[Chimay Première (Red)](http://beeradvocate.com/beer/profile/215/672)**
 - [Chouffe Houblon Dobbelen IPA Tripel](http://beeradvocate.com/beer/profile/321/27804)
-- [Gulden Draak](http://beeradvocate.com/beer/profile/48/155)
-- [Kasteel Rouge](http://beeradvocate.com/beer/profile/212/38795)
-- [Lindemans Cassis](http://beeradvocate.com/beer/profile/187/601)
+- **[Gulden Draak](http://beeradvocate.com/beer/profile/48/155)**
+- **[Kasteel Rouge](http://beeradvocate.com/beer/profile/212/38795)**
+- **[Lindemans Cassis](http://beeradvocate.com/beer/profile/187/601)**
 - [Ridgeway Imperial Russian Stout](http://beeradvocate.com/beer/profile/7944/87856)
-- [Ridgeway Foreign Export Stout](http://beeradvocate.com/beer/profile/7944/21806)
+- **[Ridgeway Foreign Export Stout](http://beeradvocate.com/beer/profile/7944/21806)**
 - [Rochefort Trappistes 10](http://beeradvocate.com/beer/profile/207/645)
 - [St. Bernardus Abt](http://beeradvocate.com/beer/profile/259/1708)
 - [St. Bernardus Pater 6](http://beeradvocate.com/beer/profile/259/1856)
 - [St. Bernardus Tripel](http://beeradvocate.com/beer/profile/259/722)
+
+*Note: available beers are marked with bold font*

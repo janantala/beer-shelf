@@ -18,6 +18,7 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 - **[Gulden Draak](http://beeradvocate.com/beer/profile/48/155)**
 - **[Kasteel Rouge](http://beeradvocate.com/beer/profile/212/38795)**
 - **[Lindemans Cassis](http://beeradvocate.com/beer/profile/187/601)**
+- **[Mikkeller Amarillo IIPA](http://www.beeradvocate.com/beer/profile/13307/55288/)**
 - **[Mikkeller Geek Brunch Weasel](http://beeradvocate.com/beer/profile/13307/46987)**
 - [Orval Trappist Ale](http://beeradvocate.com/beer/profile/37/129)
 - [Ridgeway Imperial Russian Stout](http://beeradvocate.com/beer/profile/7944/87856)

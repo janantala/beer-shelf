@@ -20,6 +20,7 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 - **[Lindemans Cassis](http://beeradvocate.com/beer/profile/187/601)**
 - [Mikkeller Amarillo Imperial IPA](http://www.beeradvocate.com/beer/profile/13307/55288/)
 - **[Mikkeller Geek Brunch Weasel](http://beeradvocate.com/beer/profile/13307/46987)**
+- **[Mikkeller Peter, Pale and Mary](http://www.ratebeer.com/beer/mikkeller-peter-pale-and-mary/258165/)**
 - **[Mikkeller The American Dream](http://www.beeradvocate.com/beer/profile/13307/55258/)**
 - [Orval Trappist Ale](http://beeradvocate.com/beer/profile/37/129)
 - [Ridgeway Imperial Russian Stout](http://beeradvocate.com/beer/profile/7944/87856)

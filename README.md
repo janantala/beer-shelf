@@ -5,7 +5,7 @@ Hello there!
 I've heard that you want to grab a beer. So come over to visit me and choose one from my [beer shelf](#list).
 
 <p align="left">
-    <img src="https://lh5.googleusercontent.com/-M6FeOIKuNY8/UrRvQdxZ_KI/AAAAAAAAFbI/_oTZms0wfx8/w1159-h869-no/IMG_20131220_172312.jpg" alt="Beer Shelf" width="500px"/>
+    <img src="https://lh5.googleusercontent.com/-cPui2ktKxOc/U2Pz_ouBChI/AAAAAAAAF-g/poPLybMG6lY/w1159-h869-no/IMG_20140502_213631.jpg" alt="Beer Shelf" width="800px"/>
 </p>
 
 ## List
@@ -36,4 +36,4 @@ Check out my accout @beerpals http://beerpals.github.io/#!/janantala
 - [St. Bernardus Pater 6](http://beeradvocate.com/beer/profile/259/1856)
 - [St. Bernardus Tripel](http://beeradvocate.com/beer/profile/259/722)
 
-
+and more..

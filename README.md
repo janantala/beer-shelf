@@ -37,4 +37,3 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 ## Drank beers
 
 Check out my accout [@beerpals](http://beerpals.github.io/#!/janantala)
-- **[]()**

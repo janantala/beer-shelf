@@ -25,7 +25,6 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 - **[Mikkeller Geek Brunch Weasel](http://beeradvocate.com/beer/profile/13307/46987)**
 - **[Mikkeller Peter, Pale and Mary](http://www.ratebeer.com/beer/mikkeller-peter-pale-and-mary/258165/)**
 - **[Mikkeller The American Dream](http://www.beeradvocate.com/beer/profile/13307/55258/)**
-- **[Oldgott Barique](http://www.beeradvocate.com/beer/profile/12215/25835/)**
 - **[Paulaner Hefe-Weissbier Dunkel](http://www.beeradvocate.com/beer/profile/124/3763/)**
 - **[Rochefort Trappistes 8](http://www.beeradvocate.com/beer/profile/207/1696/)**
 - **[Saison Dupont](http://www.beeradvocate.com/beer/profile/637/1717/)**

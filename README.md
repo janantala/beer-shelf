@@ -20,6 +20,7 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 - **[Kaltenecker Christmas IPA 16°](http://www.ratebeer.com/beer/kaltenecker-christmas-ipa-16o/194148/)**
 - **[Kaltenecker No Limit Imperial Double IPA 22°](http://www.ratebeer.com/beer/hopfanatic--kaltenecker-no-limit-imperial-double-ipa-22o/194147/)**
 - **[Kaltenecker White Shadow 15°](http://www.ratebeer.com/beer/kaltenecker-white-shadow-15o/229771/)**
+- **[Kasteel Rouge](http://www.beeradvocate.com/beer/profile/212/38795/)**
 - **[Leffe Brune](http://www.beeradvocate.com/beer/profile/470/1862/)**
 - **[Lindemans Cassis](http://beeradvocate.com/beer/profile/187/601)**
 - **[Mikkeller Geek Brunch Weasel](http://beeradvocate.com/beer/profile/13307/46987)**

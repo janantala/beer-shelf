@@ -5,7 +5,7 @@ Hello there!
 I've heard that you want to grab a beer. So come over to visit me and choose one from my [beer shelf](#list).
 
 <p align="left">
-    <img src="https://lh4.googleusercontent.com/-BKmJ10_h26Q/U30QV2VK4UI/AAAAAAAAGRY/b-3BVMxDZKQ/w919-h689-no/IMG_20140521_224315.jpg" alt="Beer Shelf" width="800px"/>
+    <img src="https://lh3.googleusercontent.com/-5t2mtdgYtJg/VF0XhczBFhI/AAAAAAAANVU/RitYXDqT16k/w1173-h868-no/IMG_20141107_200256.jpg" alt="Beer Shelf" width="800px"/>
 </p>
 
 ## List

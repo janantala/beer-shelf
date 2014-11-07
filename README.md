@@ -10,8 +10,15 @@ I've heard that you want to grab a beer. So come over to visit me and choose one
 
 ## List
 
+- **[BrewDog 5 A.M. Saint](http://www.beeradvocate.com/beer/profile/16315/55191/)**
+- **[BrewDog Dead Pony Club](http://www.beeradvocate.com/beer/profile/16315/83463/)**
+- **[BrewDog Libertine Black Ale](http://www.beeradvocate.com/beer/profile/16315/84505/)**
+- **[BrewDog Punk IPA](http://www.beeradvocate.com/beer/profile/16315/39435/)**
+- **[Chimay Grande Réserve (Blue)](http://www.beeradvocate.com/beer/profile/215/2512/)**
 - **[Chimay Première (Red)](http://beeradvocate.com/beer/profile/215/672)**
+- **[Chimay Tripel (White)](http://www.beeradvocate.com/beer/profile/215/1346/)**
 - **[Drie Fonteinen Oude Geuze](http://www.beeradvocate.com/beer/profile/2216/6305/)**
+- **[Duvel](http://www.beeradvocate.com/beer/profile/222/695/)**
 - **[Gulden Draak](http://beeradvocate.com/beer/profile/48/155)**
 - **[Kaltenecker Atlantis IPA 14°](http://www.ratebeer.com/beer/kaltenecker-atlantis-ipa-14o/138334/)**
 - **[Kaltenecker Blues IPA 17°](http://www.ratebeer.com/beer/kaltenecker-blues-ipa-17o/223227/)**
